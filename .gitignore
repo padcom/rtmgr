@@ -1,0 +1,4 @@
+**/*.dcu
+**/*.~*
+**/build
+doc/install.html

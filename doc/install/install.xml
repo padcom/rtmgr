@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<book lang="pl">
+  <title>RadioTaxi Manager - Instrukcja installacji systemu</title>
+  <bookinfo>
+    <author>
+      <firstname>Matthias</firstname>
+      <surname>Hryniszak</surname>
+    </author>
+    <copyright>
+      <year>2008</year>
+      <holder>Aplaline - Matthias Hryniszak</holder>
+    </copyright>
+  </bookinfo>
+
+  <preface>
+    <title>Wprowadzenie</title>
+    <para>
+      Niniejszy dokument opisuje proces instalacji systemu RadioTaxi Manager 3.1 w konfiguracji wielostanowiskowej.
+    </para>
+  </preface>
+  
+  <chapter>
+    <title>Ustawienia komputerów</title>
+    <sect1>
+      <title>Ustawienia sieciowe</title>
+      <para>
+        Głównym elementem decydującym o tym, czy komputery będą potrafiły się ze sobą komunikować jest poprawna konfiguracja sieci.
+        Wykonujemy ją tak samo na każdym komputerze za wyłączeniem adresu IP, który <emphasis>MUSI BYĆ</emphasis> unikalny dla każdego stanowiska.
+      </para>
+      <para>
+        Otwieramy okno ustawień połączeń sieciowych. Dostęp do tego miejsca można uzyskać dwojako:
+        <itemizedlist mark='opencircle'>
+          <listitem><para>Klikająć prawym przyciskiem na ikonę "Połączenia sieciowe" na pulpicie i wybierając opcję "Właściwości"</para></listitem>
+          <listitem><para>Przechodząc do Panelu Sterowania i wybierając opcję "Połączenia sieciowe"</para></listitem>
+        </itemizedlist>
+        Obie metody doprowadzą nas do poniższego okna:
+      </para>
+      <para>
+        <imagedata fileref="images/list-of-network-connections.png"/>
+      </para>
+      <para>
+        Natępnie klikamy prawym przyciskiem myszy na ikonie połączenia lokalnego i wybieramy opcję "Właściwości" (na powyższym obrazie jest to połączenie "Local Area Connection" lecz w 
+        zależności od ustawień może się ono nazywać inaczej, np. w języku polskim będzie to "Połączenie lokalne").
+      </para>
+      <para>
+        <imagedata fileref="images/properties-of-a-connection.png"/>
+      </para>
+      <para>
+        W oknie właściwości połączenia sieciowego znajdujemy pozycję "Internet Protocol (TCP/IP)" (z reguły jest to ostatnia pozycja na liście) i klikamy przycisk "Właściwości" (tutaj "Properties").
+        Wypełniamy zawartość tego okienka w następujący sposób:
+      </para>
+      <para>
+        <imagedata fileref="images/properties-of-tcpip-protocol.png"/>
+      </para>
+      <para>
+        Po wprowadzeniu danych adresów i maski podsieci zamykamy wszystkie okienka, klikając za każdym razem przycisk "OK"
+      </para>
+      <sect2>
+        <title>Główny komputer</title>
+        <para>
+          W pola zaznaczone na czerwono wpisujemy odpowiednio 10 i 1
+        </para>
+      </sect2>
+      <sect2>
+        <title>Dodatkowe stanowiska</title>
+        <para>
+          W pola zaznaczone na czerwono wpisujemy odpowiednio 10 i numer stanowiska + 1, np. 10.2 dla pierwszego stanowiska, 10.3 dla drugiego stanowiska, itd.
+        </para>
+      </sect2>
+    </sect1>
+  </chapter>
+  
+  <chapter>
+    <title>Instalacja serwera bazy danych</title>
+    <sect1>
+      <title>Instalator</title>
+      <para>
+        Instalację serwera bazy danych Firebird przeprowadzamy uruchamiając program instalacyjny <filename>Firebird-2.0.4.13130_0_win32.exe</filename> z płyty CD.
+        <warning><para>Instalację przeprowadzamy TYLKO NA GŁÓWNYM KOMPUTERZE</para></warning>
+        Przechodzimy przez proces instalacji zatwierdzając domyślne wartości wszystkich opcji.
+      </para>
+    </sect1>
+    <sect1>
+      <title>Aktualizacja pliku aliases.conf</title>
+      <para>
+        Po zainstalowaniu serwera należy poinstruować serwer bazy danych o lokalizacji danych programu RadioTaxi Manager. W tym celu wykonujemy następujące czynności:
+        <orderedlist>
+          <listitem><para>Otwieramy okno <filename>Mój komputer</filename></para></listitem>
+          <listitem><para>Przechodzimy do zawartości dysku <filename>C</filename></para></listitem>
+          <listitem><para>Przechodzimy do zawartości folderu <filename>Program files</filename></para></listitem>
+          <listitem><para>Przechodzimy do zawartości folderu <filename>Firebird</filename></para></listitem>
+          <listitem><para>Przechodzimy do zawartości folderu <filename>Firebird_2_0</filename></para></listitem>
+          <listitem><para>Klikamy prawym przyciskiem myszy na pliku <filename>aliases.conf</filename> i wybieramy opcję "Otwórz"</para></listitem>
+          <listitem><para>W następnym oknie zaznaczamy opcję "Wybierz program z list" i klikamy "OK"</para></listitem>
+          <listitem><para>W następnym oknie odnajdujemy pozycję "Notatnik" (ew. "Notepad") i klikamy "OK"</para></listitem>
+        </orderedlist>
+        Zawartość pliku aliases.conf uzupełniamy zgodnie z poniższym przykładem:
+      </para>
+      <para><screen>
+# 
+# List of known database aliases 
+# ------------------------------ 
+# 
+# Examples: 
+# 
+#   dummy = c:\data\dummy.fdb 
+#  
+RTMGR=C:\RTMGR.FDB
+</screen>
+      </para>
+      <para>
+        Następnie z menu "Plik" wybieramy opcję "Zapisz" i zamykamy notatnik.
+      </para>
+    </sect1>
+  </chapter>
+
+  <chapter>
+    <title>Instalacja programu RadioTaxi Manager</title>
+    <sect1>
+      <title>Uruchomienie instalatora</title>
+      <para>
+        Instalację programu RadioTaxi Manager przeprowadzamy uruchamiając program instalacyjny <filename>rtmgr-setup.exe</filename> z płyty CD.
+        <warning><para>Instalacja przebiega inaczej na głównym komputerze zawierającym równocześnie serwer bazy danych i na dodatkowych stanowiskach</para></warning>
+      </para>
+    </sect1>
+    <sect1>
+      <title>Rozpoczęcie instalacji</title>
+      <para>
+        Instalację rozpoczynamy od ekranu powitalnego instalatora. Przechodzimy dalej klikając przycisk "Dalej"
+      </para>
+      <para>
+        <imagedata fileref="images/setup-welcome-page.png"/>
+      </para>
+      <para>
+        Następnym elementem instalatora jest akceptacja licencji. Po zaznajomieniu się z warunkami licencji zaznaczamy opcję "Akceptuję warunki umowy" i przechodzimy dalej klikając przycisk "Dalej"
+      </para>
+      <para>
+        <imagedata fileref="images/setup-license.png"/>
+      </para>
+    </sect1>
+    <sect1>
+      <title>Hasło instalatora</title>
+      <para>
+        Instalacja programu zabezpieczona jest hasłem. Hasło znajduje się na opakowaniu programu pod etykietą "Klucz instalacyjny". 
+        Hasło to należy wpisać w pole widoczne na obrazie poniżej i przejść dalej klikając przycisk "Dalej".
+      </para>
+      <para>
+        <imagedata fileref="images/setup-password.png"/>
+      </para>
+    </sect1>
+    <sect1>
+      <title>Wybór folderu docelowego</title>
+      <para>
+        Następnym krokiem instalacji programu jest wybór docelowego folderu. Zalecane jest aby pozostawić domyślne wartości bez zmian i przejść dalej klikając przycisk "Dalej".
+      </para>
+      <para>
+        <imagedata fileref="images/setup-dest-folder-selection.png"/>
+      </para>
+    </sect1>
+    <sect1>
+      <title>Lokalizacja serwera bazy danych</title>
+      <para>
+        Następnym krokiem instalacji programu jest podanie informacji o serwerze baz danych. Tutaj w zależności od tego na którym komputerze instalowany jest aktualnie program podajemy następujące informacje i przechodzimy dalej za pomocą przycisku "Dalej"
+      </para>
+      <para>
+        <imagedata fileref="images/setup-server-address.png"/>
+      </para>
+      <sect2>
+        <title>Główny komputer</title>
+        <para>
+          W pole "Adres serwera:" wpisujemy tekst "127.0.0.1" (bez cudzysłowiu)
+        </para>
+      </sect2>
+      <sect2>
+        <title>Dodatkowe stanowiska</title>
+        <para>
+          W pole "Adres serwera:" wpisujemy tekst "192.168.10.1" (bez cudzysłowiu)
+        </para>
+      </sect2>
+    </sect1>
+    <sect1>
+      <title>Wybór folderu w Menu Start</title>
+      <para>
+        Następnym krokiem instalacji programu jest wybór docelowego folderu w Menu Start zawierającego skróty do programu. Zalecane jest aby pozostawić domyślne wartości bez zmian i przejść dalej klikając przycisk "Dalej".
+      </para>
+      <para>
+        <imagedata fileref="images/setup-menu-start-selection.png"/>
+      </para>
+    </sect1>
+    <sect1>
+      <title>Wybór dodatkowych ustawień</title>
+      <para>
+        Następnym krokiem instalacji programu jest wybór dodatkowych ustawień. Tutaj w zależności od tego na którym komputerze instalowany jest aktualnie program podajemy następujące informacje i przechodzimy dalej za pomocą przycisku "Dalej"
+      </para>
+      <para>
+        <imagedata fileref="images/setup-choose-settings.png"/>
+      </para>
+      <sect2>
+        <title>Główny komputer</title>
+        <para>
+          Zaznaczamy następujące opcje:
+          <itemizedlist>
+            <listitem><para>Utwórz ikonę na pulpicie</para></listitem>
+            <listitem><para>Utwórz ikonę na pasku szybkiego uruchomienia (ten element jest opcjonalny)</para></listitem>
+            <listitem><para>Instaluj serwer TimeSync</para></listitem>
+          </itemizedlist>
+          <warning><para>Należy sprawdzić, czy opcja "Instaluj klienta TimeSync" jest na pewno niezaznaczona</para></warning>
+        </para>
+      </sect2>
+      <sect2>
+        <title>Dodatkowe stanowiska</title>
+        <para>
+          Zaznaczamy następujące opcje:
+          <itemizedlist>
+            <listitem><para>Utwórz ikonę na pulpicie</para></listitem>
+            <listitem><para>Utwórz ikonę na pasku szybkiego uruchomienia (ten element jest opcjonalny)</para></listitem>
+            <listitem><para>Instaluj klienta TimeSync</para></listitem>
+          </itemizedlist>
+          <warning><para>Należy sprawdzić, czy opcja "Instaluj serwer TimeSync" jest na pewno niezaznaczona</para></warning>
+        </para>
+      </sect2>
+    </sect1>
+    <sect1>
+      <title>Weryfikacja ustawień instalatora</title>
+      <para>
+        Następnym krokiem instalacji programu jest weryfikacja ustawień instalatora. Aby rozpocząć właściwy proces instalacji należy kliknąć przycisk "Instaluj".
+      </para>
+      <para>
+        <imagedata fileref="images/setup-summary.png"/>
+      </para>
+    </sect1>
+    <sect1>
+      <title>Zakończenie instalatora</title>
+      <para>
+        W ostatnim kroku instalatora mamy możliwość automatycznego uruchomienia programu "RadioTaxi Manager" po zamknięciu instalatora.
+      </para>
+      <para>
+        <imagedata fileref="images/setup-finish.png"/>
+      </para>
+      <note><para>W zależności od tego, czy dane zostały już zainstalowane na głównym komputerze (patrz następny rozdział) czy też nie, należy odznaczyć tę opcję. Pozostawienie jej zaznaczonej co prawda nie powoduje żadnych negatywnych skutków ubocznych, lecz podczas uruchomienia dostaniemy informację, że połączenie do bazy danych nie jest możliwe</para></note>
+    </sect1>
+  </chapter>
+
+  <chapter>
+    <title>Instalacja danych na głównym komputerze</title>
+    <sect1>
+      <title>Kopiowanie danych</title>
+      <para>
+        Instalacja danych odbywa się poprzez skopiowanie pliku <filename>RTMGR.FDB</filename> z płyty CD do głównego folderu na lokalnym dysku C.
+        W tym celu wykonujemy następujące operacje:
+        <orderedlist>
+          <listitem><para>Otwieramy okno <filename>Mój komputer</filename></para></listitem>
+          <listitem><para>Przechodzimy do zawartości CDROM'u <filename>D</filename> (w zależności od konfiguracji komputera literka napędu optycznego może się zmienić)</para></listitem>
+          <listitem><para>Klikamy prawym przyciskiem myszy na pliku <filename>RTMGR.FDB</filename> i wybieramy opcję "Kopiuj"</para></listitem>
+          <listitem><para>Otwieramy okno <filename>Mój komputer</filename></para></listitem>
+          <listitem><para>Przechodzimy do zawartości dysku <filename>C</filename></para></listitem>
+          <listitem><para>Z menu "Edycja" wybieramy opcję "Wklej" co spowoduje skopiowanie pliku z płyty CD na lokalny dysk twardy</para></listitem>
+          <listitem><para>Klikamy prawym przyciskiem myszy na nowoskopiowanym pliku na dysku <filename>C</filename> i wybieramy opcję "Właściwości"</para></listitem>
+          <listitem><para>We właściwościach pliku RTMGR.FDB odznaczamy pozycję "Tylko do odczytu" i zamykamy okno właściwości za pomocą przycisku "OK"</para></listitem>
+        </orderedlist>
+      </para>
+    </sect1>
+  </chapter>
+</book>

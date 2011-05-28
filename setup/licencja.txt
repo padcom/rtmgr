@@ -1,0 +1,46 @@
+
+
+Warunki licencji programu RadioTaxi Manager.
+
+Licencjodawca oœwiadcza, i¿ posiada pe³ne prawa do zakodowanych czêœci programu RadioTaxi Manager. Na wszystkie inne odrêbne sk³adowe oprogramowania (bêd¹ce w³asnoœci¹ Licencjodawcy lub na podstawie innych umów wymagaj¹ce przekazania praw) udziela siê licencji na zasadach GNU Lesser General Public License. Licencja GNU LGPL do³¹czona zosta³a do dokumentacji.
+
+Niniejsza licencja dotyczy jedynie programu RadioTaxi Manager i wy³¹cza czêœci podlegaj¹ce licencji Lesser General Public License.
+
+Licencjodawca oœwiadcza, ¿e ca³oœæ praw autorskich, jak równie¿ prawo do udzielania licencji na korzystanie z programu RadioTaxi Manager przys³uguje Licencjodawcy.
+
+Udzielona licencja upowa¿nia Licencjobiorcê do korzystania z programu RadioTaxi Manager w zakresie nastêpuj¹cych pól eksploatacji:
+
+    * korzystania z programu RadioTaxi Manager z dowolnego komputera
+
+Udzielenie licencji przez Licencjodawcê, pod rygorem niewa¿noœci jest zawsze potwierdzone oddzieln¹ umow¹ w formie pisemnej, która jednoznacznie okreœla wersjê programu.
+
+Ka¿dy z u¿ytkowników programu RadioTaxi Manager, przed jej pierwszym uruchomieniem zobowi¹zany jest do zapoznania siê z warunkami licencji i mo¿liwoœci jej wykorzystania. Akceptacja tych warunków i rozpoczêcie pracy z programu RadioTaxi Manager, jest jednoznaczne z bezwarunkowym przyjêciem przez Licencjobiorcê i u¿ytkownika jej warunków chyba, ¿e pisemna umowa pomiêdzy stronami stanowi inaczej.
+
+Licencjobiorca oœwiadcza, i¿ znany mu jest zakres funkcji programu RadioTaxi Manager i przyjmuje w u¿ytkowanie programu RadioTaxi Manager w wersji dostarczonej mu przez licencjodawcê.
+
+W przypadku stwierdzenia naruszenia warunków licencji, Licencjodawca mo¿e niezw³ocznie rozwi¹zaæ umowê licencyjn¹, a Licencjobiorca zobowi¹zany bêdzie do usuniêcia programu RadioTaxi Manager z dysków twardych serwera i wszystkich kopii zapasowych.
+
+Wypo¿yczanie, wynajmowanie, wydzier¿awianie lub przekazywanie w jakiejkolwiek formie programu RadioTaxi Manager oraz dokumentacji do programu RadioTaxi Manager osobom trzecim jest zabronione - chyba, ¿e wynika to z praw Partnera handlowego nabytych na bazie pisemnej umowy.
+
+Licencja na programu RadioTaxi Manager zostaje udzielona Licencjobiorcy bez prawa wy³¹cznoœci i bez ograniczeñ czasowych i terytorialnych.
+
+Licencjobiorca nie mo¿e przekazaæ osobie trzeciej swoich prawa wynikaj¹ce z tej licencji.
+
+Odtwarzanie, dekompilacja i dezasemblacja zakodowanych elementów programu RadioTaxi Manager jest zabroniona.
+
+Dokonywanie zmian w programu RadioTaxi Manager jest zabronione pod groŸb¹ utraty praw do korzystania z programu RadioTaxi Manager wynikaj¹cych z niniejszej licencji.
+
+Gwarancja obejmuje jedynie czêœci programu RadioTaxi Manager i wyklucza elementy licencjonowane na zasadach GNU Lesser General Public License.
+
+Licencjodawca nie ponosi ¿adnej odpowiedzialnoœci za szkody i b³êdy, jakie zostan¹ wywo³ane Licencjobiorcy przez u¿ytkowników, osoby trzecie, którym u¿ytkownicy przekazali has³a dostêpu oraz osoby, które dokona³y nieautoryzowanego logowania.
+
+Licencjodawca ani jego dostawcy nie bêd¹ w ¿adnym przypadku ponosiæ odpowiedzialnoœci za jakiekolwiek powsta³e szkody specjalne, przypadkowe, poœrednie lub wtórne (w tym miêdzy innymi za utratê zysków, utratê poufnych lub innych informacji, przerwy w prowadzeniu dzia³alnoœci, uszkodzenia cia³a, naruszenie prywatnoœci, niedope³nienie obowi¹zków, zarówno w dobrej wierze, jak i przy uzasadnionych staraniach, brak starannoœci oraz szkody finansowe i inne) wynik³e lub w jakikolwiek sposób zwi¹zane z u¿ywaniem lub niemo¿liwoœci¹ u¿ywania programu RadioTaxi Manager.
+
+Licencjodawca jednoczeœnie informuje Licencjobiorcê i u¿ytkownika, ¿e programu RadioTaxi Manager jest utworem intelektualnym, w którym nie ma mo¿liwoœci przewidzenia wszelkich jego zasad zachowania siê i dzia³ania na komputerach, serwerach w sieci Internet, sieciach lokalnych i przy u¿yciu przegl¹darek WWW.
+
+Z tego te¿ wzglêdu Licencjodawca w ca³oœci wy³¹cza odpowiedzialnoœæ za b³êdy na zasadach ogólnych oraz rêkojmiê. Licencjodawca nie gwarantuje, ¿e programu RadioTaxi Manager bêdzie dzia³a³a w sposób nale¿yty i oczekiwany i nie jest odpowiedzialny wobec Licencjobiorcy i u¿ytkownika, (ani ¿adnej innej osoby) za jak¹kolwiek szkodê powsta³¹ w zwi¹zku z u¿ywaniem programu RadioTaxi Manager, wliczaj¹c w to utratê spodziewanych korzyœci, szkody, przerwy w dzia³alnoœci Licencjobiorcy, utraty informacji, danych itp.
+
+W przypadku roszczeñ wobec Licencjobiorcy, skierowanych przez u¿ytkowników oraz osoby trzecie, Licencjodawca nie jest adresatem ewentualnych roszczeñ regresowych (jak równie¿ roszczeñ o innym charakterze). Licencjodawca nie mo¿e te¿ zarêczaæ, ¿e programu RadioTaxi Manager jest odpowiedniej dla Licencjobiorcy jakoœci i ¿e bêdzie nadawa³a siê do zamierzonego przez niego u¿ytku.
+
+Licencjodawca podkreœla, ¿e w³o¿ono maksimum wysi³ku w to, aby programu RadioTaxi Manager by³ wolny od b³êdów. Nie wyklucza to jednak, ¿e w programu RadioTaxi Manager pojawi¹ siê b³êdy, mimo, ¿e by³ on testowany. Licencjodawca prosi Licencjobiorcê, aby zg³asza³ wszelkiego rodzaju zauwa¿one usterki i b³êdy w dzia³aniu programu RadioTaxi Manager wraz z wyczerpuj¹cymi materia³ami, przy czym Licencjodawca do³o¿y starañ, aby je jak najszybciej usun¹æ.
+

@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<l:l10n xmlns:l="http://docbook.sourceforge.net/xmlns/l10n/1.0" language="kn" english-language-name="Kannada">
+
+<!-- * This file is generated automatically. -->
+<!-- * To submit changes to this file upstream (to the DocBook Project) -->
+<!-- * do not submit an edited version of this file. Instead, submit an -->
+<!-- * edited version of the source file at the following location: -->
+<!-- * -->
+<!-- *  https://docbook.svn.sourceforge.net/svnroot/docbook/trunk/gentext/locale/kn.xml -->
+<!-- * -->
+<!-- * E-mail the edited kn.xml source file to: -->
+<!-- * -->
+<!-- *  docbook-developers@lists.sourceforge.net -->
+
+<!-- ******************************************************************** -->
+
+<!-- This file is part of the XSL DocBook Stylesheet distribution. -->
+<!-- See ../README or http://docbook.sf.net/release/xsl/current/ for -->
+<!-- copyright and other information. -->
+
+<!-- ******************************************************************** -->
+<!-- In these files, % with a letter is used for a placeholder: -->
+<!--   %t is the current element's title -->
+<!--   %s is the current element's subtitle (if applicable)-->
+<!--   %n is the current element's number label-->
+<!--   %p is the current element's page number (if applicable)-->
+<!-- ******************************************************************** -->
+
+
+<l:gentext key="Abstract" text="à²¸à²¾à²°à²¾à²‚à²¶"/>
+<l:gentext key="abstract" text="à²¸à²¾à²°à²¾à²‚à²¶"/>
+<l:gentext key="Answer" text="à²‰:"/>
+<l:gentext key="answer" text="à²‰:"/>
+<l:gentext key="Appendix" text="à²…à²¨à³à²¬à²‚à²§"/>
+<l:gentext key="appendix" text="à²…à²¨à³à²¬à²‚à²§"/>
+<l:gentext key="Article" text="à²²à³‡à²–à²¨"/>
+<l:gentext key="article" text="à²²à³‡à²–à²¨"/>
+<l:gentext key="Author" text="à²²à³‡à²–à²•"/>
+<l:gentext key="Bibliography" text="Bibliography"/>
+<l:gentext key="bibliography" text="Bibliography"/>
+<l:gentext key="Book" text="à²ªà³à²¸à³à²¤à²•"/>
+<l:gentext key="book" text="à²ªà³à²¸à³à²¤à²•"/>
+<l:gentext key="CAUTION" text="à²Žà²šà³à²šà²°à²¿à²•à³†"/>
+<l:gentext key="Caution" text="à²Žà²šà³à²šà²°à²¿à²•à³†"/>
+<l:gentext key="caution" text="à²Žà²šà³à²šà²°à²¿à²•à³†"/>
+<l:gentext key="Chapter" text="à²…à²§à³à²¯à²¾à²¯"/>
+<l:gentext key="chapter" text="à²…à²§à³à²¯à²¾à²¯"/>
+<l:gentext key="Colophon" text="Colophon"/>
+<l:gentext key="colophon" text="Colophon"/>
+<l:gentext key="Copyright" text="à²•à³ƒà²¤à²¿à²¸à³à²µà²¾à²®à³à²¯"/>
+<l:gentext key="copyright" text="à²•à³ƒà²¤à²¿à²¸à³à²µà²¾à²®à³à²¯"/>
+<l:gentext key="Dedication" text="à²¸à²®à²°à³à²ªà²£à³†"/>
+<l:gentext key="dedication" text="à²¸à²®à²°à³à²ªà²£à³†"/>
+<l:gentext key="Edition" text="à²†à²µà³ƒà²¤à³à²¤à²¿"/>
+<l:gentext key="edition" text="à²†à²µà³ƒà²¤à³à²¤à²¿"/>
+<l:gentext key="Editor" text="Editor" lang="en"/>
+<l:gentext key="Equation" text="à²¸à²®à³€à²•à²°à²£"/>
+<l:gentext key="equation" text="à²¸à²®à³€à²•à²°à²£"/>
+<l:gentext key="Example" text="à²‰à²¦à²¾à²¹à²°à²£à³†"/>
+<l:gentext key="example" text="à²‰à²¦à²¾à²¹à²°à²£à³†"/>
+<l:gentext key="Figure" text="à²šà²¿à²¤à³à²°"/>
+<l:gentext key="figure" text="à²šà²¿à²¤à³à²°"/>
+<l:gentext key="Glossary" text="à²ªà²¾à²°à²¿à²­à²¾à²·à²¿à²•à²•à³‹à²¶"/>
+<l:gentext key="glossary" text="à²ªà²¾à²°à²¿à²­à²¾à²·à²¿à²•à²•à³‹à²¶"/>
+<l:gentext key="GlossSee" text="à²‡à²¦à²¨à³à²¨à³ à²¨à³‹à²¡à²¿"/>
+<l:gentext key="glosssee" text="à²‡à²¦à²¨à³à²¨à³ à²¨à³‹à²¡à²¿"/>
+<l:gentext key="GlossSeeAlso" text="à²‡à²¦à²¨à³à²¨à³‚ à²¸à²¹ à²¨à³‹à²¡à²¿"/>
+<l:gentext key="glossseealso" text="à²‡à²¦à²¨à³à²¨à³‚ à²¸à²¹ à²¨à³‹à²¡à²¿"/>
+<l:gentext key="IMPORTANT" text="à²®à²¹à²¤à³à²µ"/>
+<l:gentext key="important" text="à²®à²¹à²¤à³à²µ"/>
+<l:gentext key="Important" text="à²®à²¹à²¤à³à²µ"/>
+<l:gentext key="Index" text="à²…à²¨à³à²•à³à²°à²®à²£à²¿à²•à³†"/>
+<l:gentext key="index" text="à²…à²¨à³à²•à³à²°à²®à²£à²¿à²•à³†"/>
+<l:gentext key="ISBN" text="ISBN"/>
+<l:gentext key="isbn" text="ISBN"/>
+<l:gentext key="LegalNotice" text="Legal Notice"/>
+<l:gentext key="legalnotice" text="Legal Notice"/>
+<l:gentext key="MsgAud" text="à²¶à³à²°à³‹à²¤à³ƒà²—à²³à³"/>
+<l:gentext key="msgaud" text="à²¶à³à²°à³‹à²¤à³ƒà²—à²³à³"/>
+<l:gentext key="MsgLevel" text="à²¸à³à²¤à²°"/>
+<l:gentext key="msglevel" text="à²¸à³à²¤à²°"/>
+<l:gentext key="MsgOrig" text="à²®à³‚à²²"/>
+<l:gentext key="msgorig" text="à²®à³‚à²²"/>
+<l:gentext key="NOTE" text="à²¸à³‚à²šà²¨à³†"/>
+<l:gentext key="Note" text="à²¸à³‚à²šà²¨à³†"/>
+<l:gentext key="note" text="à²¸à³‚à²šà²¨à³†"/>
+<l:gentext key="Part" text="à²­à²¾à²—"/>
+<l:gentext key="part" text="à²­à²¾à²—"/>
+<l:gentext key="Preface" text="à²ªà³€à² à²¿à²•à³†"/>
+<l:gentext key="preface" text="à²ªà³€à² à²¿à²•à³†"/>
+<l:gentext key="Procedure" text="à²•à²¾à²°à³à²¯à²µà²¿à²§à²¾à²¨"/>
+<l:gentext key="procedure" text="à²•à²¾à²°à³à²¯à²µà²¿à²§à²¾à²¨"/>
+<l:gentext key="ProductionSet" text="à²¨à²¿à²°à³à²®à²¾à²£"/>
+<l:gentext key="PubDate" text="à²ªà³à²°à²•à²Ÿà²¨à³† à²¦à²¿à²¨à²¾à²‚à²•"/>
+<l:gentext key="pubdate" text="à²ªà³à²°à²•à²Ÿà²¨à³† à²¦à²¿à²¨à²¾à²‚à²•"/>
+<l:gentext key="Published" text="à²ªà³à²°à²•à²¾à²¶à²ªà²¡à²¿à²¸à²¿à²¦"/>
+<l:gentext key="published" text="à²ªà³à²°à²•à²¾à²¶à²ªà²¡à²¿à²¸à²¿à²¦"/>
+<l:gentext key="Publisher" text="Publisher" lang="en"/>
+<l:gentext key="Qandadiv" text="à²ªà³à²° &amp; à²‰"/>
+<l:gentext key="qandadiv" text="à²ªà³à²° &amp; à²‰"/>
+<l:gentext key="QandASet" text="Frequently Asked Questions" lang="en"/>
+<l:gentext key="Question" text="à²ªà³à²°:"/>
+<l:gentext key="question" text="à²ªà³à²°:"/>
+<l:gentext key="RefEntry" text=""/>
+<l:gentext key="refentry" text=""/>
+<l:gentext key="Reference" text="à²‰à²²à³à²²à³‡à²–"/>
+<l:gentext key="reference" text="à²‰à²²à³à²²à³‡à²–"/>
+<l:gentext key="References" text="References" lang="en"/>
+<l:gentext key="RefName" text="à²¹à³†à²¸à²°à³"/>
+<l:gentext key="refname" text="à²¹à³†à²¸à²°à³"/>
+<l:gentext key="RefSection" text=""/>
+<l:gentext key="refsection" text=""/>
+<l:gentext key="RefSynopsisDiv" text="à²¸à²¾à²°à²¾à²‚à²¶"/>
+<l:gentext key="refsynopsisdiv" text="à²¸à²¾à²°à²¾à²‚à²¶"/>
+<l:gentext key="RevHistory" text="à²ªà³à²°à²¾à²µà³ƒà²¤à³à²¤ à²ªà²°à²¿à²·à³à²•à²°à²£à³†"/>
+<l:gentext key="revhistory" text="à²ªà³à²°à²¾à²µà³ƒà²¤à³à²¤ à²ªà²°à²¿à²·à³à²•à²°à²£à³†"/>
+<l:gentext key="revision" text="à²ªà²°à²¿à²·à³à²•à²°à²£à³†"/>
+<l:gentext key="Revision" text="à²ªà²°à²¿à²·à³à²•à²°à²£à³†"/>
+<l:gentext key="sect1" text="à²µà²¿à²­à²¾à²—"/>
+<l:gentext key="sect2" text="à²µà²¿à²­à²¾à²—"/>
+<l:gentext key="sect3" text="à²µà²¿à²­à²¾à²—"/>
+<l:gentext key="sect4" text="à²µà²¿à²­à²¾à²—"/>
+<l:gentext key="sect5" text="à²µà²¿à²­à²¾à²—"/>
+<l:gentext key="section" text="à²µà²¿à²­à²¾à²—"/>
+<l:gentext key="Section" text="à²µà²¿à²­à²¾à²—"/>
+<l:gentext key="see" text="à²‡à²¦à²¨à³à²¨à³ à²¨à³‹à²¡à²¿"/>
+<l:gentext key="See" text="à²‡à²¦à²¨à³à²¨à³ à²¨à³‹à²¡à²¿"/>
+<l:gentext key="seealso" text="à²‡à²¦à²¨à³à²¨à³‚ à²¸à²¹ à²¨à³‹à²¡à²¿"/>
+<l:gentext key="Seealso" text="à²‡à²¦à²¨à³à²¨à³‚ à²¸à²¹ à²¨à³‹à²¡à²¿"/>
+<l:gentext key="SeeAlso" text="à²‡à²¦à²¨à³à²¨à³‚ à²¸à²¹ à²¨à³‹à²¡à²¿"/>
+<l:gentext key="set" text="à²¹à³Šà²‚à²¦à²¿à²¸à³"/>
+<l:gentext key="Set" text="à²¹à³Šà²‚à²¦à²¿à²¸à³"/>
+<l:gentext key="setindex" text="à²…à²¨à³à²•à³à²°à²®à²£à²¿à²•à³† à²¹à³Šà²‚à²¦à²¿à²¸à³"/>
+<l:gentext key="SetIndex" text="à²…à²¨à³à²•à³à²°à²®à²£à²¿à²•à³† à²¹à³Šà²‚à²¦à²¿à²¸à³"/>
+<l:gentext key="Sidebar" text=""/>
+<l:gentext key="sidebar" text="sidebar"/>
+<l:gentext key="step" text="à²¹à²‚à²¤"/>
+<l:gentext key="Step" text="à²¹à²‚à²¤"/>
+<l:gentext key="table" text="à²•à³‹à²·à³à²Ÿà²•"/>
+<l:gentext key="Table" text="à²•à³‹à²·à³à²Ÿà²•"/>
+<l:gentext key="task" text="Task" lang="en"/>
+<l:gentext key="Task" text="Task" lang="en"/>
+<l:gentext key="tip" text="à²•à²¿à²µà²¿à²®à²¾à²¤à³"/>
+<l:gentext key="TIP" text="à²•à²¿à²µà²¿à²®à²¾à²¤à³"/>
+<l:gentext key="Tip" text="à²•à²¿à²µà²¿à²®à²¾à²¤à³"/>
+<l:gentext key="Warning" text="à²Žà²šà³à²šà²°à²¿à²•à³†"/>
+<l:gentext key="warning" text="à²Žà²šà³à²šà²°à²¿à²•à³†"/>
+<l:gentext key="WARNING" text="à²Žà²šà³à²šà²°à²¿à²•à³†"/>
+<l:gentext key="and" text="à²®à²¤à³à²¤à³"/>
+<l:gentext key="by" text="à²¯à²¿à²‚à²¦"/>
+<l:gentext key="Edited" text="à²¸à²‚à²ªà²¾à²¦à²¿à²¸à²¿à²¦"/>
+<l:gentext key="edited" text="à²¸à²‚à²ªà²¾à²¦à²¿à²¸à²¿à²¦"/>
+<l:gentext key="Editedby" text="à²¸à²‚à²ªà²¾à²¦à²•"/>
+<l:gentext key="editedby" text="à²¸à²‚à²ªà²¾à²¦à²•"/>
+<l:gentext key="in" text="in"/>
+<l:gentext key="lastlistcomma" text=","/>
+<l:gentext key="listcomma" text=","/>
+<l:gentext key="nonexistantelement" text="non-existant element"/>
+<l:gentext key="notes" text="à²Ÿà²¿à²ªà³à²ªà²£à²¿"/>
+<l:gentext key="Notes" text="à²Ÿà²¿à²ªà³à²ªà²£à²¿"/>
+<l:gentext key="Pgs" text="à²ªà³à²Ÿà²—à²³à³."/>
+<l:gentext key="pgs" text="à²ªà³à²Ÿà²—à²³à³."/>
+<l:gentext key="Revisedby" text="Revised by: "/>
+<l:gentext key="revisedby" text="Revised by: "/>
+<l:gentext key="TableNotes" text="Notes"/>
+<l:gentext key="tablenotes" text="Notes"/>
+<l:gentext key="TableofContents" text="à²µà²¿à²·à²¯à²¾à²¨à³à²•à³à²°à²®à²£à²¿à²•à³†"/>
+<l:gentext key="tableofcontents" text="à²µà²¿à²·à²¯à²¾à²¨à³à²•à³à²°à²®à²£à²¿à²•à³†"/>
+<l:gentext key="unexpectedelementname" text="à²…à²¨à²¿à²°à³€à²•à³à²·à²¿à²¤ à²µà²¸à³à²¤à³à²µà²¿à²¨ à²¹à³†à²¸à²°à³"/>
+<l:gentext key="unsupported" text="unsupported"/>
+<l:gentext key="xrefto" text="xref to"/>
+<l:gentext key="Authors" text="Authors" lang="en"/>
+<l:gentext key="copyeditor" text="Copy Editor" lang="en"/>
+<l:gentext key="graphicdesigner" text="Graphic Designer" lang="en"/>
+<l:gentext key="productioneditor" text="Production Editor" lang="en"/>
+<l:gentext key="technicaleditor" text="Technical Editor" lang="en"/>
+<l:gentext key="translator" text="Translator" lang="en"/>
+<l:gentext key="listofequations" text="à²¸à²®à³€à²•à²°à²£à²ªà²Ÿà³à²Ÿà²¿ "/>
+<l:gentext key="ListofEquations" text="à²¸à²®à³€à²•à²°à²£à²ªà²Ÿà³à²Ÿà²¿ "/>
+<l:gentext key="ListofExamples" text="List of Examples"/>
+<l:gentext key="listofexamples" text="List of Examples"/>
+<l:gentext key="ListofFigures" text="List of Figures"/>
+<l:gentext key="listoffigures" text="List of Figures"/>
+<l:gentext key="ListofProcedures" text="List of Procedures"/>
+<l:gentext key="listofprocedures" text="List of Procedures"/>
+<l:gentext key="listoftables" text="List of Tables"/>
+<l:gentext key="ListofTables" text="List of Tables"/>
+<l:gentext key="ListofUnknown" text="List of Unknown"/>
+<l:gentext key="listofunknown" text="List of Unknown"/>
+<l:gentext key="nav-home" text="à²®à²¨à³†"/>
+<l:gentext key="nav-next" text="à²®à³à²‚à²¦à²¿à²¨"/>
+<l:gentext key="nav-next-sibling" text="Fast Forward"/>
+<l:gentext key="nav-prev" text="à²¹à²¿à²‚à²¦à²¿à²¨"/>
+<l:gentext key="nav-prev-sibling" text="Fast Backward"/>
+<l:gentext key="nav-up" text="à²®à³‡à²²à³†"/>
+<l:gentext key="nav-toc" text="ToC"/>
+<l:gentext key="Draft" text="Draft"/>
+<l:gentext key="above" text="above"/>
+<l:gentext key="below" text="below"/>
+<l:gentext key="sectioncalled" text="the section called"/>
+<l:gentext key="index symbols" text="Symbols"/>
+<l:gentext key="lowercase.alpha" text="abcdefghijklmnopqrstuvwxyz"/>
+<l:gentext key="uppercase.alpha" text="ABCDEFGHIJKLMNOPQRSTUVWXYZ"/>
+<l:gentext key="normalize.sort.input" text="AaÃ€Ã ÃÃ¡Ã‚Ã¢ÃƒÃ£Ã„Ã¤Ã…Ã¥Ä€ÄÄ‚ÄƒÄ„Ä…ÇÇŽÇžÇŸÇ Ç¡ÇºÇ»È€ÈÈ‚ÈƒÈ¦È§á¸€á¸áºšáº áº¡áº¢áº£áº¤áº¥áº¦áº§áº¨áº©áºªáº«áº¬áº­áº®áº¯áº°áº±áº²áº³áº´áºµáº¶áº·BbÆ€ÆÉ“Æ‚Æƒá¸‚á¸ƒá¸„á¸…á¸†á¸‡CcÃ‡Ã§Ä†Ä‡ÄˆÄ‰ÄŠÄ‹ÄŒÄÆ‡ÆˆÉ•á¸ˆá¸‰DdÄŽÄÄÄ‘ÆŠÉ—Æ‹ÆŒÇ…Ç²È¡É–á¸Šá¸‹á¸Œá¸á¸Žá¸á¸á¸‘á¸’á¸“EeÃˆÃ¨Ã‰Ã©ÃŠÃªÃ‹Ã«Ä’Ä“Ä”Ä•Ä–Ä—Ä˜Ä™ÄšÄ›È„È…È†È‡È¨È©á¸”á¸•á¸–á¸—á¸˜á¸™á¸šá¸›á¸œá¸áº¸áº¹áººáº»áº¼áº½áº¾áº¿á»€á»á»‚á»ƒá»„á»…á»†á»‡FfÆ‘Æ’á¸žá¸ŸGgÄœÄÄžÄŸÄ Ä¡Ä¢Ä£Æ“É Ç¤Ç¥Ç¦Ç§Ç´Çµá¸ á¸¡HhÄ¤Ä¥Ä¦Ä§ÈžÈŸÉ¦á¸¢á¸£á¸¤á¸¥á¸¦á¸§á¸¨á¸©á¸ªá¸«áº–IiÃŒÃ¬ÃÃ­ÃŽÃ®ÃÃ¯Ä¨Ä©ÄªÄ«Ä¬Ä­Ä®Ä¯Ä°Æ—É¨ÇÇÈˆÈ‰ÈŠÈ‹á¸¬á¸­á¸®á¸¯á»ˆá»‰á»Šá»‹JjÄ´ÄµÇ°ÊKkÄ¶Ä·Æ˜Æ™Ç¨Ç©á¸°á¸±á¸²á¸³á¸´á¸µLlÄ¹ÄºÄ»Ä¼Ä½Ä¾Ä¿Å€ÅÅ‚ÆšÇˆÈ´É«É¬É­á¸¶á¸·á¸¸á¸¹á¸ºá¸»á¸¼á¸½MmÉ±á¸¾á¸¿á¹€á¹á¹‚á¹ƒNnÃ‘Ã±ÅƒÅ„Å…Å†Å‡ÅˆÆÉ²ÆžÈ Ç‹Ç¸Ç¹ÈµÉ³á¹„á¹…á¹†á¹‡á¹ˆá¹‰á¹Šá¹‹OoÃ’Ã²Ã“Ã³Ã”Ã´Ã•ÃµÃ–Ã¶Ã˜Ã¸ÅŒÅÅŽÅÅÅ‘ÆŸÆ Æ¡Ç‘Ç’ÇªÇ«Ç¬Ç­Ç¾Ç¿ÈŒÈÈŽÈÈªÈ«È¬È­È®È¯È°È±á¹Œá¹á¹Žá¹á¹á¹‘á¹’á¹“á»Œá»á»Žá»á»á»‘á»’á»“á»”á»•á»–á»—á»˜á»™á»šá»›á»œá»á»žá»Ÿá» á»¡á»¢á»£PpÆ¤Æ¥á¹”á¹•á¹–á¹—QqÊ RrÅ”Å•Å–Å—Å˜Å™ÈÈ‘È’È“É¼É½É¾á¹˜á¹™á¹šá¹›á¹œá¹á¹žá¹ŸSsÅšÅ›ÅœÅÅžÅŸÅ Å¡È˜È™Ê‚á¹ á¹¡á¹¢á¹£á¹¤á¹¥á¹¦á¹§á¹¨á¹©TtÅ¢Å£Å¤Å¥Å¦Å§Æ«Æ¬Æ­Æ®ÊˆÈšÈ›È¶á¹ªá¹«á¹¬á¹­á¹®á¹¯á¹°á¹±áº—UuÃ™Ã¹ÃšÃºÃ›Ã»ÃœÃ¼Å¨Å©ÅªÅ«Å¬Å­Å®Å¯Å°Å±Å²Å³Æ¯Æ°Ç“Ç”Ç•Ç–Ç—Ç˜Ç™ÇšÇ›ÇœÈ”È•È–È—á¹²á¹³á¹´á¹µá¹¶á¹·á¹¸á¹¹á¹ºá¹»á»¤á»¥á»¦á»§á»¨á»©á»ªá»«á»¬á»­á»®á»¯á»°á»±VvÆ²Ê‹á¹¼á¹½á¹¾á¹¿WwÅ´Åµáº€áºáº‚áºƒáº„áº…áº†áº‡áºˆáº‰áº˜XxáºŠáº‹áºŒáºYyÃÃ½Ã¿Å¸Å¶Å·Æ³Æ´È²È³áºŽáºáº™á»²á»³á»´á»µá»¶á»·á»¸á»¹ZzÅ¹ÅºÅ»Å¼Å½Å¾ÆµÆ¶È¤È¥ÊÊ‘áºáº‘áº’áº“áº”áº•áº•" lang="en"/>
+<l:gentext key="normalize.sort.output" text="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBBBBBBBBBBBBCCCCCCCCCCCCCCCCCDDDDDDDDDDDDDDDDDDDDDDDDEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEFFFFFFGGGGGGGGGGGGGGGGGGGGHHHHHHHHHHHHHHHHHHHHIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIJJJJJJKKKKKKKKKKKKKKLLLLLLLLLLLLLLLLLLLLLLLLLLMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOPPPPPPPPQQQRRRRRRRRRRRRRRRRRRRRRRRSSSSSSSSSSSSSSSSSSSSSSSTTTTTTTTTTTTTTTTTTTTTTTTTUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUVVVVVVVVWWWWWWWWWWWWWWWXXXXXXYYYYYYYYYYYYYYYYYYYYYYYZZZZZZZZZZZZZZZZZZZZZ" lang="en"/>
+<l:dingbat key="startquote" text="â€œ"/>
+<l:dingbat key="endquote" text="â€"/>
+<l:dingbat key="nestedstartquote" text="â€˜"/>
+<l:dingbat key="nestedendquote" text="â€™"/>
+<l:dingbat key="singlestartquote" text="â€˜"/>
+<l:dingbat key="singleendquote" text="â€™"/>
+<l:dingbat key="bullet" text="â€¢"/>
+<l:gentext key="hyphenation-character" text="-"/>
+<l:gentext key="hyphenation-push-character-count" text="2"/>
+<l:gentext key="hyphenation-remain-character-count" text="2"/>
+<l:context name="styles"><l:template name="person-name" text="first-last"/>
+</l:context>
+<l:context name="title"><l:template name="abstract" text="%t"/>
+<l:template name="answer" text="%t"/>
+<l:template name="appendix" text="à²…à²¨à³à²¬à²‚à²§Â %n.Â %t"/>
+<l:template name="article" text="%t"/>
+<l:template name="authorblurb" text="%t"/>
+<l:template name="bibliodiv" text="%t"/>
+<l:template name="biblioentry" text="%t"/>
+<l:template name="bibliography" text="%t"/>
+<l:template name="bibliolist" text="%t"/>
+<l:template name="bibliomixed" text="%t"/>
+<l:template name="bibliomset" text="%t"/>
+<l:template name="biblioset" text="%t"/>
+<l:template name="blockquote" text="%t"/>
+<l:template name="book" text="%t"/>
+<l:template name="calloutlist" text="%t"/>
+<l:template name="caution" text="%t"/>
+<l:template name="chapter" text="à²…à²§à³à²¯à²¾à²¯Â %n.Â %t"/>
+<l:template name="colophon" text="%t"/>
+<l:template name="dedication" text="%t"/>
+<l:template name="equation" text="à²¸à²®à³€à²•à²°à²£Â %n.Â %t"/>
+<l:template name="example" text="à²‰à²¦à²¾à²¹à²°à²£à³†Â %n.Â %t"/>
+<l:template name="figure" text="à²šà²¿à²¤à³à²°Â %n.Â %t"/>
+<l:template name="foil" text="%t"/>
+<l:template name="foilgroup" text="%t"/>
+<l:template name="formalpara" text="%t"/>
+<l:template name="glossary" text="%t"/>
+<l:template name="glossdiv" text="%t"/>
+<l:template name="glosslist" text="%t"/>
+<l:template name="glossentry" text="%t"/>
+<l:template name="important" text="%t"/>
+<l:template name="index" text="%t"/>
+<l:template name="indexdiv" text="%t"/>
+<l:template name="itemizedlist" text="%t"/>
+<l:template name="legalnotice" text="%t"/>
+<l:template name="listitem" text=""/>
+<l:template name="lot" text="%t"/>
+<l:template name="msg" text="%t"/>
+<l:template name="msgexplan" text="%t"/>
+<l:template name="msgmain" text="%t"/>
+<l:template name="msgrel" text="%t"/>
+<l:template name="msgset" text="%t"/>
+<l:template name="msgsub" text="%t"/>
+<l:template name="note" text="%t"/>
+<l:template name="orderedlist" text="%t"/>
+<l:template name="part" text="à²­à²¾à²—Â %n.Â %t"/>
+<l:template name="partintro" text="%t"/>
+<l:template name="preface" text="%t"/>
+<l:template name="procedure" text="%t"/>
+<l:template name="procedure.formal" text="à²•à²¾à²°à³à²¯à²µà²¿à²§à²¾à²¨Â %n.Â %t"/>
+<l:template name="productionset" text="%t"/>
+<l:template name="productionset.formal" text="à²¨à²¿à²°à³à²®à²¾à²£Â %n"/>
+<l:template name="qandadiv" text="%t"/>
+<l:template name="qandaentry" text="%t"/>
+<l:template name="qandaset" text="%t"/>
+<l:template name="question" text="%t"/>
+<l:template name="refentry" text="%t"/>
+<l:template name="reference" text="%t"/>
+<l:template name="refsection" text="%t"/>
+<l:template name="refsect1" text="%t"/>
+<l:template name="refsect2" text="%t"/>
+<l:template name="refsect3" text="%t"/>
+<l:template name="refsynopsisdiv" text="%t"/>
+<l:template name="refsynopsisdivinfo" text="%t"/>
+<l:template name="segmentedlist" text="%t"/>
+<l:template name="set" text="%t"/>
+<l:template name="setindex" text="%t"/>
+<l:template name="sidebar" text="%t"/>
+<l:template name="step" text="%t"/>
+<l:template name="table" text="à²•à³‹à²·à³à²Ÿà²•Â %n.Â %t"/>
+<l:template name="task" text="%t"/>
+<l:template name="tasksummary" text="%t" lang="en"/>
+<l:template name="taskprerequisites" text="%t" lang="en"/>
+<l:template name="taskrelated" text="%t" lang="en"/>
+<l:template name="tip" text="%t"/>
+<l:template name="toc" text="%t"/>
+<l:template name="variablelist" text="%t"/>
+<l:template name="varlistentry" text=""/>
+<l:template name="warning" text="%t"/>
+</l:context>
+<l:context name="title-unnumbered"><l:template name="appendix" text="%t"/>
+<l:template name="article/appendix" text="%t"/>
+<l:template name="bridgehead" text="%t"/>
+<l:template name="chapter" text="%t"/>
+<l:template name="sect1" text="%t"/>
+<l:template name="sect2" text="%t"/>
+<l:template name="sect3" text="%t"/>
+<l:template name="sect4" text="%t"/>
+<l:template name="sect5" text="%t"/>
+<l:template name="section" text="%t"/>
+<l:template name="simplesect" text="%t"/>
+<l:template name="part" text="%t" lang="en"/>
+</l:context>
+<l:context name="title-numbered"><l:template name="appendix" text="à²…à²¨à³à²¬à²‚à²§Â %n.Â %t"/>
+<l:template name="article/appendix" text="%n.Â %t"/>
+<l:template name="bridgehead" text="%n.Â %t"/>
+<l:template name="chapter" text="à²…à²§à³à²¯à²¾à²¯Â %n.Â %t"/>
+<l:template name="part" text="à²­à²¾à²—Â %n.Â %t"/>
+<l:template name="sect1" text="%n.Â %t"/>
+<l:template name="sect2" text="%n.Â %t"/>
+<l:template name="sect3" text="%n.Â %t"/>
+<l:template name="sect4" text="%n.Â %t"/>
+<l:template name="sect5" text="%n.Â %t"/>
+<l:template name="section" text="%n.Â %t"/>
+<l:template name="simplesect" text="%t"/>
+</l:context>
+<l:context name="subtitle"><l:template name="appendix" text="%s"/>
+<l:template name="article" text="%s"/>
+<l:template name="bibliodiv" text="%s"/>
+<l:template name="biblioentry" text="%s"/>
+<l:template name="bibliography" text="%s"/>
+<l:template name="bibliomixed" text="%s"/>
+<l:template name="bibliomset" text="%s"/>
+<l:template name="biblioset" text="%s"/>
+<l:template name="book" text="%s"/>
+<l:template name="chapter" text="%s"/>
+<l:template name="colophon" text="%s"/>
+<l:template name="dedication" text="%s"/>
+<l:template name="glossary" text="%s"/>
+<l:template name="glossdiv" text="%s"/>
+<l:template name="index" text="%s"/>
+<l:template name="indexdiv" text="%s"/>
+<l:template name="lot" text="%s"/>
+<l:template name="part" text="%s"/>
+<l:template name="partintro" text="%s"/>
+<l:template name="preface" text="%s"/>
+<l:template name="refentry" text="%s"/>
+<l:template name="reference" text="%s"/>
+<l:template name="refsection" text="%s"/>
+<l:template name="refsect1" text="%s"/>
+<l:template name="refsect2" text="%s"/>
+<l:template name="refsect3" text="%s"/>
+<l:template name="refsynopsisdiv" text="%s"/>
+<l:template name="sect1" text="%s"/>
+<l:template name="sect2" text="%s"/>
+<l:template name="sect3" text="%s"/>
+<l:template name="sect4" text="%s"/>
+<l:template name="sect5" text="%s"/>
+<l:template name="section" text="%s"/>
+<l:template name="set" text="%s"/>
+<l:template name="setindex" text="%s"/>
+<l:template name="sidebar" text="%s"/>
+<l:template name="simplesect" text="%s"/>
+<l:template name="toc" text="%s"/>
+</l:context>
+<l:context name="xref"><l:template name="abstract" text="%t"/>
+<l:template name="answer" text="à²‰:Â %n"/>
+<l:template name="appendix" text="%t"/>
+<l:template name="article" text="%t"/>
+<l:template name="authorblurb" text="%t"/>
+<l:template name="bibliodiv" text="%t"/>
+<l:template name="bibliography" text="%t"/>
+<l:template name="bibliomset" text="%t"/>
+<l:template name="biblioset" text="%t"/>
+<l:template name="blockquote" text="%t"/>
+<l:template name="book" text="%t"/>
+<l:template name="calloutlist" text="%t"/>
+<l:template name="caution" text="%t"/>
+<l:template name="chapter" text="%t"/>
+<l:template name="colophon" text="%t"/>
+<l:template name="constraintdef" text="%t"/>
+<l:template name="dedication" text="%t"/>
+<l:template name="equation" text="%t"/>
+<l:template name="example" text="%t"/>
+<l:template name="figure" text="%t"/>
+<l:template name="foil" text="%t"/>
+<l:template name="foilgroup" text="%t"/>
+<l:template name="formalpara" text="%t"/>
+<l:template name="glossary" text="%t"/>
+<l:template name="glossdiv" text="%t"/>
+<l:template name="important" text="%t"/>
+<l:template name="index" text="%t"/>
+<l:template name="indexdiv" text="%t"/>
+<l:template name="itemizedlist" text="%t"/>
+<l:template name="legalnotice" text="%t"/>
+<l:template name="listitem" text="%n"/>
+<l:template name="lot" text="%t"/>
+<l:template name="msg" text="%t"/>
+<l:template name="msgexplan" text="%t"/>
+<l:template name="msgmain" text="%t"/>
+<l:template name="msgrel" text="%t"/>
+<l:template name="msgset" text="%t"/>
+<l:template name="msgsub" text="%t"/>
+<l:template name="note" text="%t"/>
+<l:template name="orderedlist" text="%t"/>
+<l:template name="part" text="%t"/>
+<l:template name="partintro" text="%t"/>
+<l:template name="preface" text="%t"/>
+<l:template name="procedure" text="%t"/>
+<l:template name="productionset" text="%t"/>
+<l:template name="qandadiv" text="%t"/>
+<l:template name="qandaentry" text="à²ªà³à²°:Â %n"/>
+<l:template name="qandaset" text="%t"/>
+<l:template name="question" text="à²ªà³à²°:Â %n"/>
+<l:template name="reference" text="%t"/>
+<l:template name="refsynopsisdiv" text="%t"/>
+<l:template name="segmentedlist" text="%t"/>
+<l:template name="set" text="%t"/>
+<l:template name="setindex" text="%t"/>
+<l:template name="sidebar" text="%t"/>
+<l:template name="table" text="%t"/>
+<l:template name="task" text="%t" lang="en"/>
+<l:template name="tip" text="%t"/>
+<l:template name="toc" text="%t"/>
+<l:template name="variablelist" text="%t"/>
+<l:template name="varlistentry" text="%n"/>
+<l:template name="warning" text="%t"/>
+<l:template name="olink.document.citation" text=" in %o"/>
+<l:template name="olink.page.citation" text=" (page %p)"/>
+<l:template name="page.citation" text=" [%p]"/>
+<l:template name="page" text="(page %p)"/>
+<l:template name="docname" text=" in %o"/>
+<l:template name="docnamelong" text=" in the document titled %o"/>
+<l:template name="pageabbrev" text="(p. %p)"/>
+<l:template name="Page" text="Page %p"/>
+<l:template name="bridgehead" text="the section called â€œ%tâ€"/>
+<l:template name="refsection" text="the section called â€œ%tâ€"/>
+<l:template name="refsect1" text="the section called â€œ%tâ€"/>
+<l:template name="refsect2" text="the section called â€œ%tâ€"/>
+<l:template name="refsect3" text="the section called â€œ%tâ€"/>
+<l:template name="sect1" text="the section called â€œ%tâ€"/>
+<l:template name="sect2" text="the section called â€œ%tâ€"/>
+<l:template name="sect3" text="the section called â€œ%tâ€"/>
+<l:template name="sect4" text="the section called â€œ%tâ€"/>
+<l:template name="sect5" text="the section called â€œ%tâ€"/>
+<l:template name="section" text="the section called â€œ%tâ€"/>
+<l:template name="simplesect" text="the section called â€œ%tâ€"/>
+</l:context>
+<l:context name="xref-number"><l:template name="answer" text="à²‰:Â %n"/>
+<l:template name="appendix" text="à²…à²¨à³à²¬à²‚à²§Â %n"/>
+<l:template name="bridgehead" text="à²µà²¿à²­à²¾à²—Â %n"/>
+<l:template name="chapter" text="à²…à²§à³à²°à²…à²§à³à²°àG>
+<l:templat/>
+<l:templplp  ÷l:templplp  ÷lßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß

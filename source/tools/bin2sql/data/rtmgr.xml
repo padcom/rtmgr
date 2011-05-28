@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+
+<database>
+  <tables>
+    <table name="POSTOJ" filename="data\postoje.rtm">
+      <fields>
+        <field name="Kind"  type="Integer" offset="0"  size="4"  sql="false"/>
+        <field name="Size"  type="Word"    offset="4"  size="2"  sql="false" />
+        <field name="Id"    type="Integer" offset="6"  size="4"  sql="true" primarykey="true" />
+        <field name="Flags" type="Word"    offset="10" size="2"  sql="false" />
+        <field name="Nazwa" type="Char"    offset="12" size="80" sql="true" />
+      </fields>
+    </table>
+    <table name="ULICA" filename="data\ulice.rtm">
+      <fields>
+        <field name="Kind"     type="Integer" offset="0"   size="4"  sql="false"/>
+        <field name="Size"     type="Word"    offset="4"   size="2"  sql="false" />
+        <field name="Id"       type="Integer" offset="6"   size="4"  sql="true" primarykey="true" />
+        <field name="Flags"    type="Word"    offset="10"  size="2"  sql="false" />
+        <field name="Nazwa"    type="Char"    offset="12"  size="80" sql="true" />
+        <field name="Poczatek" type="Char"    offset="92"  size="6"  sql="true" />
+        <field name="Koniec"   type="Char"    offset="98"  size="6"  sql="true" />
+        <field name="Postoj1"  type="Integer" offset="104" size="4"  sql="false" />
+        <field name="Postoj2"  type="Integer" offset="108" size="4"  sql="false" />
+        <field name="Postoj3"  type="Integer" offset="112" size="4"  sql="false" />
+        <field name="Postoj4"  type="Integer" offset="116" size="4"  sql="false" />
+        <field name="Postoj5"  type="Integer" offset="120" size="4"  sql="false" />
+        <field name="Postoj6"  type="Integer" offset="124" size="4"  sql="false" />
+        <field name="Postoj7"  type="Integer" offset="128" size="4"  sql="false" />
+        <field name="Postoj8"  type="Integer" offset="132" size="4"  sql="false" />
+      </fields>
+    </table>
+    <table name="TAKSOWKA" filename="data\taksowki.rtm">
+      <fields>
+        <field name="Kind"     type="Integer" offset="0"  size="4"  sql="false"/>
+        <field name="Size"     type="Word"    offset="4"  size="2"  sql="false" />
+        <field name="Id"       type="Integer" offset="6"  size="4"  sql="true" primarykey="true" />
+        <field name="Flags"    type="Word"    offset="10" size="2"  sql="false" />
+        <field name="NrBoczny" type="Char"    offset="12" size="10" sql="true" />
+        <field name="NrWywol"  type="Char"    offset="22" size="10" sql="true" />
+        <field name="Nazwa"    type="Char"    offset="32" size="80" sql="true" />
+      </fields>
+    </table>
+    <table name="KLIENT" filename="data\klienci.rtm">
+      <fields>
+        <field name="Kind"     type="Integer" offset="0"   size="4"  sql="false"/>
+        <field name="Size"     type="Word"    offset="4"   size="2"  sql="false" />
+        <field name="Id"       type="Integer" offset="6"   size="4"  sql="true" primarykey="true" />
+        <field name="Flags"    type="Word"    offset="10"  size="2"  sql="false" />
+        <field name="Nazwa"    type="Char"    offset="12"  size="80" sql="true" />
+        <field name="UlicaId"  type="Integer" offset="92"  size="4"  sql="true" />
+        <field name="Ulica"    type="Char"    offset="96"  size="80" sql="true" />
+        <field name="Dom"      type="Char"    offset="176" size="6"  sql="true" />
+        <field name="Mieszk"   type="Char"    offset="182" size="6"  sql="true" />
+        <field name="Telefon"  type="Char"    offset="188" size="15" sql="true" />
+      </fields>
+    </table>
+    <table name="KURS" filename="data\kursy\*.rtm">
+      <fields>
+        <field name="Kind"       type="Integer"  offset="0"   size="4"  sql="false"/>
+        <field name="Size"       type="Word"     offset="4"   size="2"  sql="false" />
+        <field name="Id"         type="Integer"  offset="6"   size="4"  sql="true" primarykey="true" />
+        <field name="Flags"      type="Word"     offset="10"  size="2"  sql="true" />
+        <field name="UlicaId"    type="Integer"  offset="12"  size="4"  sql="true" />
+        <field name="Ulica"      type="Char"     offset="16"  size="80" sql="true" />
+        <field name="Dom"        type="Char"     offset="96"  size="6"  sql="true" />
+        <field name="Mieszk"     type="Char"     offset="102" size="6"  sql="true" />
+        <field name="TaksowkaId" type="Integer"  offset="108" size="4"  sql="true" />
+        <field name="Przyjecie"  type="DateTime" offset="112" size="8"  sql="true" />
+        <field name="Realizacja" type="DateTime" offset="120" size="8"  sql="true" />
+        <field name="Shift"      type="Double"   offset="128" size="8"  sql="false" />
+      </fields>
+    </table>
+  </tables>
+</database>

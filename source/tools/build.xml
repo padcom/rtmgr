@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<project name="rtmgr-source" default="build">
+  <property file="../../../build.properties"/>
+  <target name="build" depends="clean,compile"/>
+  <target name="clean">
+    <ant dir="bin2sql" target="clean"/>
+    <ant dir="summary" target="clean"/>
+    <ant dir="database" target="clean"/>
+    <ant dir="ntpc" target="clean"/>
+    <ant dir="ntpd" target="clean"/>
+  </target>
+  <target name="compile">
+    <ant dir="bin2sql" target="compile"/>
+    <ant dir="summary" target="compile"/>
+    <ant dir="database" target="compile"/>
+    <ant dir="ntpc" target="compile"/>
+    <ant dir="ntpd" target="compile"/>
+  </target>
+</project>

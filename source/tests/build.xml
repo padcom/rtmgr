@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+
+<project name="rtmgr-source" default="build" basedir=".">
+  <property file="../../build.properties"/>
+  <target name="build" depends="clean,compile"/>
+  <target name="clean">
+    <ant dir="automated-tests" target="clean"/>
+    <delete>
+      <fileset dir=".">
+        <include name="**/*.dcu"/>
+        <include name="**/*.~*"/>
+        <include name="**/*.dsk"/>
+      </fileset>
+    </delete>
+  </target>
+  <target name="prepare">
+    <mkdir dir="../../build/bin/data/kursy"/>
+    <mkdir dir="../../build/obj"/>
+  </target>
+  <target name="compile" depends="prepare">
+    <ant dir="automated-tests" target="compile"/>
+    <exec executable="${dcc32}" dir="../components/dunit/src" failonerror="true">
+      <arg value="/q"/>
+      <arg value="/b"/>
+      <arg value="-e../../../../build/bin"/>
+      <arg value="-n../../../../build/obj"/>
+      <arg value="dunit.dpr"/>
+    </exec>
+    <exec executable="${dcc32}" failonerror="true">
+      <arg value="/q"/>
+      <arg value="/b"/>
+      <arg value="/dFINALVERSION"/>
+      <arg value="-e../../build/bin"/>
+      <arg value="-n../../build/obj"/>
+      <arg value="rtmgrtest.dpr"/>
+    </exec>
+    <exec executable="dunit.exe" dir="../../build/bin" resolveexecutable="true" failonerror="true">
+      <arg value="/c"/>
+      <arg value="rtmgrtest.dll"/>
+    </exec>
+  </target>
+</project>
+

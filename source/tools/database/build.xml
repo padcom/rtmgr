@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<project name="rtmgr" default="build">
+  <target name="build" depends="clean,compile"/>
+  <target name="clean"/>
+  <target name="compile">
+    <copy file="isql.bat" todir="../../../build/bin"/>
+    <copy file="rebuild-db.bat" todir="../../../build/bin"/>
+    <copy file="rtmgr-database.sql" todir="../../../build/bin"/>
+    <copy file="rtmgr-database-drop.sql" todir="../../../build/bin"/>
+    <copy file="rtmgr-tables.sql" todir="../../../build/bin"/>
+  </target>
+</project>

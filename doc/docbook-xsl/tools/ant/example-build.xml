@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<project name="test" default="build">
+  <target name="build">
+    <xslt classpath="docbook-xsl/tools/ant/saxon.jar" style="docbook-xsl/book-html.xsl" in="article.xml" out="article.html"/> 
+  </target>
+</project>

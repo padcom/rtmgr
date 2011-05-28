@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<project name="test" default="build">
+  <target name="build" depends="clean,compile"/>
+  <target name="compile">
+    <xslt classpath="../docbook-xsl/tools/ant/saxon.jar" style="../docbook-xsl/book-html.xsl" in="install.xml" out="install.html"/> 
+    <copy todir="../../build/bin/manual/install">
+      <fileset dir=".">
+        <include name="styles.css"/>
+        <include name="**/*.png"/>
+        <include name="**/*.html"/>
+      </fileset>
+    </copy>
+  </target>
+  <target name="clean">
+    <delete>
+      <fileset dir=".">
+        <include name="*.html"/>
+      </fileset>
+    </delete>
+  </target>
+</project>

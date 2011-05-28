@@ -1,0 +1,11 @@
+RadioTaxi Manager 3.1
+
+Opis: Definicja symboli u¾ywanych podczas kompilacji
+Data: 2001.03.07
+
+
+FINALVERSION - kompilacja wersji koäcowej bez wstawek u¾ywanych przy 
+               projektowaniu (debug)
+
+BIN2SQL      - ¾eby wˆ¥czy† obsˆug© plik¢w binarnych (tylko wczytywanie!) 
+               nale¾y skompilowa† unit RT_BaseTypes.pas z t¥ dyrektyw¥.

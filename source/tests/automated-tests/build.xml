@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<project name="rtmgr-automated-tests" default="build">
+  <target name="build" depends="clean,compile"/>
+  <target name="clean"/>
+  <target name="compile">
+    <copy file="test-postoj.au3" todir="../../../build/bin"/>
+  </target>
+</project>

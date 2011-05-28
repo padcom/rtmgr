@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<project name="rtmgr-source" default="build">
+  <property file="../build.properties"/>
+  <target name="build" depends="clean,compile"/>
+  <target name="clean">
+    <delete>
+      <fileset dir=".">
+        <include name="**/*.dcu"/>
+        <include name="**/*.~*"/>
+        <include name="**/*.dsk"/>
+      </fileset>
+    </delete>
+  </target>
+  <target name="prepare">
+    <mkdir dir="../build/bin"/>
+    <mkdir dir="../build/obj"/>
+  </target>
+  <target name="compile" depends="prepare">
+    <exec executable="${iscc}" failonerror="true">
+      <arg value="setup.iss"/>
+      <arg value="/q"/>
+    </exec>
+  </target>
+</project>

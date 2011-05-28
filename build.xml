@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<project name="rtmgr" default="build">
+  <target name="build" depends="clean,compile"/>
+  <target name="clean">
+    <delete dir="build"/>
+    <ant dir="source" target="clean"/>
+    <ant dir="setup" target="clean"/>
+  </target>
+  <target name="compile">
+    <ant dir="source" target="compile"/>
+    <ant dir="doc" target="compile"/>
+    <ant dir="setup" target="compile"/>
+  </target>
+</project>
